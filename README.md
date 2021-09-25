@@ -6,7 +6,7 @@
 >
 > 06K4 Studio
 
-En | [CN]()
+EN | [CN]()
 
 ### AI is the new Electricity
 
